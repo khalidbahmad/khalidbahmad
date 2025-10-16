@@ -3,6 +3,7 @@
 ### 💻 About Me
 I'm a passionate web developer who loves turning ideas into real projects.  
 I focus on writing clean, efficient, and scalable code while exploring new technologies.
+
 I’m looking to collaborate on **open-source projects** or **web apps that solve real-world problems**  
 
 
