@@ -26,6 +26,7 @@ I’m looking to collaborate on **open-source projects** or **web apps that solv
 ### 📫 How to Reach Me
 - Email: [khalidbahmad.dev@gmail.com](mailto:khalidbahmad.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/khalid-bahmad](https://linkedin.com/in/khalid-bahmad)
+- Portfolio: [my-portfolio/](https://khalidbahmad.github.io/my-portfolio/)
 
 ---
 
